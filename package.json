@@ -1,0 +1,25 @@
+{
+  "name": "@moh-tayyab0342/chatbot-project",
+  "version": "2.5.0",
+  "main": "app.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CH Muhammad Tayyab Gill",
+  "license": "MIT",
+  "description": "A personal chatbot built with TypeScript and Inquirer that responds to user input with pre-defined answers and emojis",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/inquirer": "^9.0.7"
+  }
+}
